@@ -1,0 +1,10 @@
+--exec accesAdmin Luis,10
+--select * from Clientes
+--exec inicioSeccion 1234567,30
+--exec Movimiento 1234567,'R',1050
+--select * from Transacciones
+--Hay que pensar bien como hacer el reporte
+--exec ReporteComprobacionSaldos 1234567
+--exec SaldoCajero 
+--exec TransferirCuenta 1234567, 12345678,100
+--exec ReponerDineroCajero Luis,10,500,2
